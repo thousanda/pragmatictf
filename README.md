@@ -20,4 +20,5 @@ $ AWS_DEFAULT_REGION=${yourregion (ap-northeast-1)}
 $ terraform init
 $ terraform plan
 $ terraform apply
+$ terraform destroy
 ```
